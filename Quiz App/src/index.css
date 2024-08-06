@@ -1,0 +1,38 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.btn:disabled {
+  opacity: 1 !important;
+  border-color: transparent;
+  border: 0px;
+}
+
+.btn,
+.form-control {
+  border-color: transparent;
+  border: 0px;
+}
+
+button {
+  text-align: left !important;
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+  outline: 0px;
+  border: 0px;
+}
+
+.bg-green {
+  background-color: #42A714;
+}
+
+body {
+  background-color: #212529 !important;
+}
+
+html, body, #root, #root>div {
+  height: 100%;
+  margin: 0;
+}
