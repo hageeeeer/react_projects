@@ -16,7 +16,7 @@ https://66b2de5fabac604242d1d2ea--melodic-churros-4b5365.netlify.app/
 https://66b2dfe19bbd574f0c8d1a2e--golden-lebkuchen-7f1545.netlify.app/
 
 6- Todo App (not finished)
-https://66b34b1123256eb353b4977c--funny-speculoos-961d92.netlify.app/
+https://66b74228ab63390e9f3e02a2--stunning-sprinkles-f1384a.netlify.app/
 
 ** the folder tasks have many small tasks 
 1)generate random color
