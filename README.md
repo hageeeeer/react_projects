@@ -18,6 +18,9 @@ https://66b2dfe19bbd574f0c8d1a2e--golden-lebkuchen-7f1545.netlify.app/
 6- Todo App (not finished)
 https://66b74228ab63390e9f3e02a2--stunning-sprinkles-f1384a.netlify.app/
 
+7- landing page template
+https://66c4928ff795f9153a37aa55--silver-haupia-713999.netlify.app/
+
 ** the folder tasks have many small tasks 
 1)generate random color
 2)accordion component
